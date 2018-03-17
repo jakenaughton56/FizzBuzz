@@ -4,7 +4,7 @@
 //
 //  Created by Jake Mobile Dev on 17/3/18.
 //  Copyright © 2018 JakeMobileDev. All rights reserved.
-//  Testing Commits
+//
 
 import UIKit
 
